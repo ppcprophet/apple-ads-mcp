@@ -88,7 +88,7 @@ The Model Context Protocol lets AI assistants connect to external tools and data
 
 ## Getting Started
 
-### 1. Sign up at [ppcprophet.com](https://ppcprophet.com)
+### 1. Sign up at [AppleAdsMcp.com](https://AppleAdsMcp.com)
 
 Create an account and connect your Apple Search Ads account.
 
@@ -101,7 +101,7 @@ Add this to your Claude Desktop config (`~/Library/Application Support/Claude/cl
   "mcpServers": {
     "apple-ads": {
       "type": "streamable-http",
-      "url": "https://app.ppcprophet.com/mcp",
+      "url": "https://appleadsmcp.com/api/mcp",
       "headers": {
         "Authorization": "Bearer YOUR_API_TOKEN"
       }
@@ -154,7 +154,7 @@ This server uses the **Streamable HTTP** MCP transport. All communication happen
 ## Support
 
 - Issues: [github.com/ppcprophet/apple-ads-mcp/issues](https://github.com/ppcprophet/apple-ads-mcp/issues)
-- Website: [ppcprophet.com](https://ppcprophet.com)
+- Website: [AppleAdsMcp.com](https://AppleAdsMcp.com)
 
 ## License
 
