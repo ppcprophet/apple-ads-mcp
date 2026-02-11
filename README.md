@@ -34,7 +34,7 @@ The Model Context Protocol lets AI assistants connect to external tools and data
 - **Performance analysis** — get actionable recommendations for your account
 - **Optimization dashboard** — surfaces opportunities to pause, scale, raise, or lower bids
 
-## Available Tools (26)
+## Available Tools (27)
 
 ### Profile Management
 | Tool | Description |
@@ -85,6 +85,7 @@ The Model Context Protocol lets AI assistants connect to external tools and data
 | `apple_get_attributions` | Post-install attribution data |
 | `apple_get_subscription_conversions` | Subscription conversion attribution |
 | `apple_ads_optimizer` | Optimization dashboard with one-click actions |
+| `apple_get_activity_log` | Audit trail of recent MCP tool calls and changes |
 
 ## Getting Started
 
